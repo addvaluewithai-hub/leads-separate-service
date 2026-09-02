@@ -1,0 +1,12 @@
+[
+  {"row": 2, "company": "Law Office of Tiffany Fader", "website": "https://rangelfaderlaw.com/", "target_services": ["estate planning", "probate"]},
+  {"row": 3, "company": "Law Office of Blake A. Campbell, PLLC", "website": "https://www.bcampbelllaw.com/", "target_services": ["estate planning", "probate", "family law"]},
+  {"row": 4, "company": "Cole Bryan PC", "website": "https://colebryanlaw.com/", "target_services": ["probate", "estate planning", "business formation"]},
+  {"row": 5, "company": "Leslie Turnage, Attorney at Law", "website": "https://leslieturnage.com/", "target_services": ["probate", "wills"]},
+  {"row": 6, "company": "Gil J. Altom, Jr. Attorney at Law", "website": "https://www.gilaltom.com/", "target_services": ["probate", "wills"]},
+  {"row": 7, "company": "Richard E. Sympson Attorney at Law", "website": "https://www.resympson.com/", "target_services": ["business law", "corporate law", "estate planning", "probate"]},
+  {"row": 8, "company": "Mary Peter Cudd, Attorney at Law", "website": "https://marypetercudd.com/", "target_services": ["estate planning", "probate", "wills"]},
+  {"row": 9, "company": "Mehboob Law Firm, PLLC", "website": "https://www.mehbooblawfirm.com/", "target_services": ["immigration", "business formation", "business law", "probate"]},
+  {"row": 10, "company": "Yvonne Gonzalez Toureilles Attorney at Law", "website": "https://www.yvonnegonzaleztoureillesattorney.com/", "target_services": ["family law", "probate", "estate planning"]},
+  {"row": 11, "company": "Law Office of Amy Lacy", "website": "https://www.amylacylaw.com/", "target_services": ["family law", "probate", "guardianship"]}
+]
